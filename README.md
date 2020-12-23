@@ -1,2 +1,2 @@
 # Steganography
-Judy is a ungly chicken!
+Pingpig is a ungly frog!
